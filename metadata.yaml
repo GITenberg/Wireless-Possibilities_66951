@@ -1,11 +1,16 @@
 _repo: Wireless-Possibilities_66951
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66951-h/images/cover.jpg
 creator:
   author:
     agent_name: Low, Archibald Montgomery
     gutenberg_agent_id: '54048'
     url: http://www.gutenberg.org/2009/agents/54048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66951#Wireless-Possibilities
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66951'
